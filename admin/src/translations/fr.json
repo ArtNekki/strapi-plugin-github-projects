@@ -1,0 +1,7 @@
+{
+  "plugin.name": "Проекты с гитхаб",
+  "repo.name": "Название",
+  "repo.description": "Описание",
+  "repo.url": "Ссылка",
+  "repo.actions": "Действия"
+}
